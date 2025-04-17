@@ -1,0 +1,34 @@
+#unique{
+    width: 200px;
+    border: 2px solid #00FFFF;
+}
+.blue{
+    color: #191970;
+}
+h1{
+    color: #800020;
+    background-color: #191970;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+.background{
+    background-color: #800020;
+}
+img {
+    border: 1px solid #00FFFF;
+    border-radius: 9px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+  }
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+  
+<a href="https://pixabay.com/photos/man-model-telephone-fashion-style-7771583/">
+  <img src="Telephone Man.jpg" alt="Man holding landline telephone outdoors.">
+</a> 
+
